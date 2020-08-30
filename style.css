@@ -1,0 +1,23 @@
+header {
+  text-align: center;
+  background: #778899;
+}
+section {
+  margin: 10px auto;
+  width: 1250px;
+}
+section h3 {
+  color: #800000;
+  padding: 10px;
+  text-align: center;
+  outline-offset: inherit;
+  animation: none;
+}
+footer {
+  clear: both;
+  padding: 10px;
+  background: #FFC0CB;
+  width: 300px;
+  height: 200px;
+  overflow-x: scroll;
+ }
