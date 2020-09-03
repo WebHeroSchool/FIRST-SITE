@@ -1,23 +1,7 @@
-header {
-  text-align: center;
-  background: #778899;
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,800&family=Lobster&display=swap');
+body  {
+  font-family: 'Bitter', serif;
 }
-section {
-  margin: 10px auto;
-  width: 1250px;
-}
-section h3 {
-  color: #800000;
-  padding: 10px;
-  text-align: center;
-  outline-offset: inherit;
-  animation: none;
-}
-footer {
-  clear: both;
-  padding: 10px;
-  background: #FFC0CB;
-  width: 300px;
-  height: 200px;
-  overflow-x: scroll;
+h1  {
+  font-family: 'Lobster', cursive;
  }
