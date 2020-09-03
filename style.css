@@ -21,3 +21,9 @@ footer {
   height: 200px;
   overflow-x: scroll;
  }
+ * {
+  font-family: 'Grandstander', cursive;
+ }
+ h1  {
+   font-family: 'Oswald', sans-serif;
+ }
